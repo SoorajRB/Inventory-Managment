@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Inventory and Stock Managment", "Inventory and Stock Managment\Inventory and Stock Managment.pyproj", "{44FB5905-4F6C-4F7A-9B1B-991F9CD75B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FB5905-4F6C-4F7A-9B1B-991F9CD75B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FB5905-4F6C-4F7A-9B1B-991F9CD75B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30E5EE6-6D12-48FC-9676-908550F58264}
+	EndGlobalSection
+EndGlobal
